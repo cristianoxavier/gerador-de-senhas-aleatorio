@@ -1,0 +1,1 @@
+##Apenas um teste onde utilizo um endpoint que retorna sempre uma sequencia aleatoria de caracteres

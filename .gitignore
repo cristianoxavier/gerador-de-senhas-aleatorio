@@ -1,0 +1,12 @@
+venv/
+venv
+.idea/
+.idea
+.idea/.gitignore
+.idea/.name
+.idea/Gerador_de_senhas.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
